@@ -4,9 +4,8 @@
 
 **Website demo:**
 ```
-https://youtube.phghuy.dev?apiKey=YOUR_API_KEY_HERE
+https://youtube.phghuy.dev
 ```
-⚠️ **Lưu ý:** Thay `YOUR_API_KEY_HERE` bằng YouTube API Key của bạn
 
 **Video demo:**
 ```
